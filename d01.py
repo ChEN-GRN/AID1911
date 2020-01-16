@@ -22,4 +22,4 @@ cur=db.cursor()
 cur.close()
 
 db.close()
-#也是放弃 才能靠近你
+#也是放弃 才能靠近你的
